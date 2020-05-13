@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.row{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-link{
+    font-size: large;
+}
+
+#menu-heading {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 30px;
+  
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+ 
+}
+
+.small-heading{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.box1{
+   
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: gray;
+}
+
+
+
